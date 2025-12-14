@@ -1,0 +1,289 @@
+OLD_FILENAME -> NEW_FILENAME
+================================================================================
+120ae1e85c1e6e78b90deb8d7bce814b_Service-Image-6.avif -> service-image-6.avif
+365cf3adf1b8ced6ecc57c70b839f820_Kev-3-p-1080.jpeg -> kev-3-p-1080.jpeg
+365cf3adf1b8ced6ecc57c70b839f820_Kev-3-p-130x130q80.jpeg -> kev-3-p-130x130q80.jpeg
+365cf3adf1b8ced6ecc57c70b839f820_Kev-3-p-500.jpeg -> kev-3-p-500.jpeg
+365cf3adf1b8ced6ecc57c70b839f820_Kev-3-p-800.jpeg -> kev-3-p-800.jpeg
+431b0ced857722a4fe4f726e459423dc_Voice-Message-p-500.avif -> voice-message-p-500.avif
+431b0ced857722a4fe4f726e459423dc_Voice-Message-p-800.avif -> voice-message-p-800.avif
+431b0ced857722a4fe4f726e459423dc_Voice-Message.avif -> voice-message.avif
+60a18645d7c122423aa077d6b5955edd_Slide-7-p-1080.jpeg -> slide-7-p-1080.jpeg
+60a18645d7c122423aa077d6b5955edd_Slide-7-p-1600.jpeg -> slide-7-p-1600.jpeg
+60a18645d7c122423aa077d6b5955edd_Slide-7-p-2000.jpeg -> slide-7-p-2000.jpeg
+60a18645d7c122423aa077d6b5955edd_Slide-7-p-500.jpeg -> slide-7-p-500.jpeg
+60a18645d7c122423aa077d6b5955edd_Slide-7-p-800.jpeg -> slide-7-p-800.jpeg
+60a18645d7c122423aa077d6b5955edd_Slide-7.avif -> slide-7.avif
+About-Us---Image-1_1About Us - Image 1.avif -> about-us-image-1-1about-us-image-1.avif
+About-Us---Image-2_1About Us - Image 2.avif -> about-us-image-2-1about-us-image-2.avif
+About-Us---Image-3_1About Us - Image 3.avif -> about-us-image-3-1about-us-image-3.avif
+About-Us---Image-5_1About Us - Image 5.avif -> about-us-image-5-1about-us-image-5.avif
+About-Us---Image-6_1About Us - Image 6.avif -> about-us-image-6-1about-us-image-6.avif
+About-Us---Image-7_1About Us - Image 7.avif -> about-us-image-7-1about-us-image-7.avif
+About-Us---Image-8_1About Us - Image 8.avif -> about-us-image-8-1about-us-image-8.avif
+About-Us---Image-9_1About Us - Image 9.avif -> about-us-image-9-1about-us-image-9.avif
+Alicia_1Alicia.avif -> alicia.avif
+Alison_1-p-500.avif -> alison-1-p-500.avif
+Alison_1Alison.avif -> alison.avif
+Avatar_1Avatar.avif -> avatar.avif
+BG_1-p-500.avif -> bg-1-p-500.avif
+BG_1BG.avif -> bg.avif
+Blog-Cover_1Blog Cover.avif -> blog-cover-1blog-cover.avif
+Branding.avif -> branding.avif
+Bruce_1Bruce.avif -> bruce.avif
+Bryan_1Bryan.avif -> bryan.avif
+CTA_1CTA.avif -> cta.avif
+Dhiren-p-500.avif -> dhiren-p-500.avif
+Dhiren-p-800.avif -> dhiren-p-800.avif
+Dhiren.avif -> dhiren.avif
+Dhiren_1Dhiren.avif -> dhiren.avif
+Emoji.png -> emoji.png
+Figma.svg -> figma.svg
+Frame-2147224083.avif -> frame-2147224083.avif
+Gallery-Image-4_1Gallery Image 4.avif -> gallery-image-4-1gallery-image-4.avif
+Galley-Image-1_1Galley Image 1.avif -> galley-image-1-1galley-image-1.avif
+Galley-Image-2_1Galley Image 2.avif -> galley-image-2-1galley-image-2.avif
+Galley-Image-3_1Galley Image 3.avif -> galley-image-3-1galley-image-3.avif
+Hero-Background-Pattern-Dark.svg -> hero-background-pattern-dark.svg
+Home---Image-1_1-p-500.avif -> home-image-1-1-p-500.avif
+Home---Image-1_1Home - Image $1.avif -> home-image-1-1home-image-1.avif
+Home---Image-2.avif -> home-image-2.avif
+Home---Image-3_1-p-500.avif -> home-image-3-1-p-500.avif
+Home---Image-3_1Home - Image $3.avif -> home-image-3-1home-image-3.avif
+Home---Image-4.avif -> home-image-4.avif
+Image-1_1Image 1.avif -> image-1-1image-1.avif
+Image-2_1Image 2.avif -> image-2-1image-2.avif
+Image-5.avif -> image-5.avif
+Kev-2-p-1080.jpg -> kev-2-p-1080.jpg
+Kev-2-p-130x130q80.jpg -> kev-2-p-130x130q80.jpg
+Kev-2-p-1600.jpg -> kev-2-p-1600.jpg
+Kev-2-p-2000.jpg -> kev-2-p-2000.jpg
+Kev-2-p-2600.jpg -> kev-2-p-2600.jpg
+Kev-2-p-500.jpg -> kev-2-p-500.jpg
+Kev-2-p-800.jpg -> kev-2-p-800.jpg
+Kev-4-p-1080.jpg -> kev-4-p-1080.jpg
+Kev-4-p-130x130q80.jpg -> kev-4-p-130x130q80.jpg
+Kev-4-p-1600.jpg -> kev-4-p-1600.jpg
+Kev-4-p-2000.jpg -> kev-4-p-2000.jpg
+Kev-4-p-2600.jpg -> kev-4-p-2600.jpg
+Kev-4-p-500.jpg -> kev-4-p-500.jpg
+Kev-4-p-800.jpg -> kev-4-p-800.jpg
+Main_1Main.avif -> main.avif
+Mau-Study-0-p-1080.jpg -> mau-study-0-p-1080.jpg
+Mau-Study-0-p-130x130q80.jpg -> mau-study-0-p-130x130q80.jpg
+Mau-Study-0-p-1600.jpg -> mau-study-0-p-1600.jpg
+Mau-Study-0-p-2000.jpg -> mau-study-0-p-2000.jpg
+Mau-Study-0-p-2600.jpg -> mau-study-0-p-2600.jpg
+Mau-Study-0-p-3200.jpg -> mau-study-0-p-3200.jpg
+Mau-Study-0-p-500.jpg -> mau-study-0-p-500.jpg
+Mau-Study-0-p-800.jpg -> mau-study-0-p-800.jpg
+Mau-Study-2-p-1080.jpg -> mau-study-2-p-1080.jpg
+Mau-Study-2-p-130x130q80.jpg -> mau-study-2-p-130x130q80.jpg
+Mau-Study-2-p-1600.jpg -> mau-study-2-p-1600.jpg
+Mau-Study-2-p-2000.jpg -> mau-study-2-p-2000.jpg
+Mau-Study-2-p-2600.jpg -> mau-study-2-p-2600.jpg
+Mau-Study-2-p-500.jpg -> mau-study-2-p-500.jpg
+Mau-Study-2-p-800.jpg -> mau-study-2-p-800.jpg
+Mau-Study-3-p-1080.jpg -> mau-study-3-p-1080.jpg
+Mau-Study-3-p-130x130q80.jpg -> mau-study-3-p-130x130q80.jpg
+Mau-Study-3-p-1600.jpg -> mau-study-3-p-1600.jpg
+Mau-Study-3-p-2000.jpg -> mau-study-3-p-2000.jpg
+Mau-Study-3-p-2600.jpg -> mau-study-3-p-2600.jpg
+Mau-Study-3-p-500.jpg -> mau-study-3-p-500.jpg
+Mau-Study-3-p-800.jpg -> mau-study-3-p-800.jpg
+Mau-Study-4-p-1080.jpg -> mau-study-4-p-1080.jpg
+Mau-Study-4-p-130x130q80.jpg -> mau-study-4-p-130x130q80.jpg
+Mau-Study-4-p-1600.jpg -> mau-study-4-p-1600.jpg
+Mau-Study-4-p-2000.jpg -> mau-study-4-p-2000.jpg
+Mau-Study-4-p-2600.jpg -> mau-study-4-p-2600.jpg
+Mau-Study-4-p-500.jpg -> mau-study-4-p-500.jpg
+Mau-Study-4-p-800.jpg -> mau-study-4-p-800.jpg
+Melbourne-CTA_1Melbourne CTA.avif -> melbourne-cta-1melbourne-cta.avif
+Melbourne-Gallery-Image-1_13ff0cb78a9c35a9b0576ffc5350f65fc_Melbourne Gallery Image 1.avif -> melbourne-gallery-image-1-13ff0cb78a9c35a9b0576ffc5350f65fc-melbourne-gallery-image-1.avif
+Melbourne-Gallery-Image-1_1Melbourne Gallery Image 1.avif -> melbourne-gallery-image-1-1melbourne-gallery-image-1.avif
+Melbourne-Main_1Melbourne Main.avif -> melbourne-main-1melbourne-main.avif
+Melbourne_1-p-1080.avif -> melbourne-1-p-1080.avif
+Melbourne_1-p-500.avif -> melbourne-1-p-500.avif
+Melbourne_1-p-800.avif -> melbourne-1-p-800.avif
+Melbourne_1Melbourne.avif -> melbourne.avif
+Menu---Image-1_1-p-500.avif -> menu-image-1-1-p-500.avif
+Menu---Image-1_1Menu - Image 1.avif -> menu-image-1-1menu-image-1.avif
+Menu---Image-2_1-p-500.avif -> menu-image-2-1-p-500.avif
+Menu---Image-2_1Menu - Image 2.avif -> menu-image-2-1menu-image-2.avif
+Menu---Image-3_1Menu - Image 3.avif -> menu-image-3-1menu-image-3.avif
+Menu---Image-4_1Menu - Image 4.avif -> menu-image-4-1menu-image-4.avif
+Noman_1Noman.avif -> noman.avif
+Onboarding_1-p-500.avif -> onboarding-1-p-500.avif
+Onboarding_1Onboarding.avif -> onboarding.avif
+Photoshop.svg -> photoshop.svg
+Problem-Image-1_1Problem Image 1.avif -> problem-image-1-1problem-image-1.avif
+Problem-Image-2_1Problem Image 2.avif -> problem-image-2-1problem-image-2.avif
+Problem-Image-3_1Problem Image 3.avif -> problem-image-3-1problem-image-3.avif
+Problem-Image-4_1Problem Image 4.avif -> problem-image-4-1problem-image-4.avif
+Problem-Image-5_1Problem Image 5.avif -> problem-image-5-1problem-image-5.avif
+Reconnect-1-p-1080.jpg -> reconnect-1-p-1080.jpg
+Reconnect-1-p-130x130q80.jpg -> reconnect-1-p-130x130q80.jpg
+Reconnect-1-p-1600.jpg -> reconnect-1-p-1600.jpg
+Reconnect-1-p-2000.jpg -> reconnect-1-p-2000.jpg
+Reconnect-1-p-2600.jpg -> reconnect-1-p-2600.jpg
+Reconnect-1-p-500.jpg -> reconnect-1-p-500.jpg
+Reconnect-1-p-800.jpg -> reconnect-1-p-800.jpg
+Reconnect-2-p-1080.jpg -> reconnect-2-p-1080.jpg
+Reconnect-2-p-130x130q80.jpg -> reconnect-2-p-130x130q80.jpg
+Reconnect-2-p-1600.jpg -> reconnect-2-p-1600.jpg
+Reconnect-2-p-2000.jpg -> reconnect-2-p-2000.jpg
+Reconnect-2-p-2600.jpg -> reconnect-2-p-2600.jpg
+Reconnect-2-p-500.jpg -> reconnect-2-p-500.jpg
+Reconnect-2-p-800.jpg -> reconnect-2-p-800.jpg
+Reconnect-3-p-1080.jpg -> reconnect-3-p-1080.jpg
+Reconnect-3-p-130x130q80.jpg -> reconnect-3-p-130x130q80.jpg
+Reconnect-3-p-1600.jpg -> reconnect-3-p-1600.jpg
+Reconnect-3-p-2000.jpg -> reconnect-3-p-2000.jpg
+Reconnect-3-p-2600.jpg -> reconnect-3-p-2600.jpg
+Reconnect-3-p-500.jpg -> reconnect-3-p-500.jpg
+Reconnect-3-p-800.jpg -> reconnect-3-p-800.jpg
+Reconnect-4-p-1080.jpg -> reconnect-4-p-1080.jpg
+Reconnect-4-p-130x130q80.jpg -> reconnect-4-p-130x130q80.jpg
+Reconnect-4-p-1600.jpg -> reconnect-4-p-1600.jpg
+Reconnect-4-p-2000.jpg -> reconnect-4-p-2000.jpg
+Reconnect-4-p-2600.jpg -> reconnect-4-p-2600.jpg
+Reconnect-4-p-500.jpg -> reconnect-4-p-500.jpg
+Reconnect-4-p-800.jpg -> reconnect-4-p-800.jpg
+Reconnect_1-p-500.avif -> reconnect-1-p-500.avif
+Reconnect_1Reconnect.avif -> reconnect.avif
+SDI---Main_1SDI - Main.avif -> sdi-main-1sdi-main.avif
+SDI-CTA.avif -> sdi-cta.avif
+Service-Image-6.avif -> service-image-6.avif
+Services-BG-Gradient-02_1Services BG Gradient 02.avif -> services-bg-gradient-02-1services-bg-gradient-02.avif
+Services-Visual-BG_1Services Visual BG.avif -> services-visual-bg-1services-visual-bg.avif
+Studio-des-Iles-p-130x130q80.png -> studio-des-iles-p-130x130q80.png
+Studio-des-Iles-p-500.png -> studio-des-iles-p-500.png
+Trusty-Img_1Trusty Img.avif -> trusty-img-1trusty-img.avif
+Trusty-p-500.avif -> trusty-p-500.avif
+Trusty.avif -> trusty.avif
+Trusty_1-p-1080.avif -> trusty-1-p-1080.avif
+Trusty_1-p-500.avif -> trusty-1-p-500.avif
+Trusty_1-p-800.avif -> trusty-1-p-800.avif
+Trusty_1Trusty.avif -> trusty.avif
+Users_1Users.avif -> users.avif
+Variations-1_1Variations 1.avif -> variations-1-1variations-1.avif
+Variations-2_1Variations 2.avif -> variations-2-1variations-2.avif
+Variations-3_1Variations 3.avif -> variations-3-1variations-3.avif
+Variations-4_1Variations 4.avif -> variations-4-1variations-4.avif
+Variations-5_1Variations 5.avif -> variations-5-1variations-5.avif
+Variations-6_1Variations 6.avif -> variations-6-1variations-6.avif
+Webflow.svg -> webflow.svg
+Website--Mobile-app-designer-Small-Image-1.avif -> website-mobile-app-designer-small-image-1.avif
+Website--Mobile-app-designer-Small-Image-2.avif -> website-mobile-app-designer-small-image-2.avif
+Website--Mobile-app-designer_1Website & Mobile app designer.avif -> website-mobile-app-designer-1website-mobile-app-designer.avif
+WhatsApp-Image-2025-11-13-at-18.36.41-p-1080.jpeg -> whatsapp-image-2025-11-13-at-18-36-41-p-1080.jpeg
+WhatsApp-Image-2025-11-13-at-18.36.41-p-130x130q80.jpeg -> whatsapp-image-2025-11-13-at-18-36-41-p-130x130q80.jpeg
+WhatsApp-Image-2025-11-13-at-18.36.41-p-1600.jpeg -> whatsapp-image-2025-11-13-at-18-36-41-p-1600.jpeg
+WhatsApp-Image-2025-11-13-at-18.36.41-p-2000.jpeg -> whatsapp-image-2025-11-13-at-18-36-41-p-2000.jpeg
+WhatsApp-Image-2025-11-13-at-18.36.41-p-500.jpeg -> whatsapp-image-2025-11-13-at-18-36-41-p-500.jpeg
+WhatsApp-Image-2025-11-13-at-18.36.41-p-800.jpeg -> whatsapp-image-2025-11-13-at-18-36-41-p-800.jpeg
+branding-1_1-p-500.avif -> branding-1-1-p-500.avif
+branding-1_1.avif -> branding-1-1.avif
+branding-1_1Branding 1.avif -> branding-1-1branding-1.avif
+branding-2_1.avif -> branding-2-1.avif
+branding-2_1Branding 2.avif -> branding-2-1branding-2.avif
+branding-3_1-p-500.avif -> branding-3-1-p-500.avif
+branding-3_1-p-800.avif -> branding-3-1-p-800.avif
+branding-3_1.avif -> branding-3-1.avif
+branding-3_1Branding 3.avif -> branding-3-1branding-3.avif
+branding-4_1-p-500.avif -> branding-4-1-p-500.avif
+branding-4_1-p-800.avif -> branding-4-1-p-800.avif
+branding-4_1.avif -> branding-4-1.avif
+branding-4_1Branding 4.avif -> branding-4-1branding-4.avif
+cb0c1891f1fc215e475f921e9b71278b_Emoji-p-130x130q80.png -> emoji-p-130x130q80.png
+ce114a4bfa8173d2f1aaa87df27dbf23_Home---Image-4-p-500.avif -> home-image-4-p-500.avif
+ce114a4bfa8173d2f1aaa87df27dbf23_Home---Image-4.avif -> home-image-4.avif
+cta-image_1.avif -> cta-image-1.avif
+cta-image_1CTA Image.avif -> cta-image-1cta-image.avif
+d4de4832bd3eb9a19e60bea12f9d82c6_Mau-Study-1-p-1080.jpeg -> mau-study-1-p-1080.jpeg
+d4de4832bd3eb9a19e60bea12f9d82c6_Mau-Study-1-p-130x130q80.jpeg -> mau-study-1-p-130x130q80.jpeg
+d4de4832bd3eb9a19e60bea12f9d82c6_Mau-Study-1-p-1600.jpeg -> mau-study-1-p-1600.jpeg
+d4de4832bd3eb9a19e60bea12f9d82c6_Mau-Study-1-p-2000.jpeg -> mau-study-1-p-2000.jpeg
+d4de4832bd3eb9a19e60bea12f9d82c6_Mau-Study-1-p-500.jpeg -> mau-study-1-p-500.jpeg
+d4de4832bd3eb9a19e60bea12f9d82c6_Mau-Study-1-p-800.jpeg -> mau-study-1-p-800.jpeg
+d5185b4875301c412fbc366b88be754e_Home---Image-2-p-500.avif -> home-image-2-p-500.avif
+d5185b4875301c412fbc366b88be754e_Home---Image-2.avif -> home-image-2.avif
+dc17c85a8479b2e1537e2d1738db54f5_Branding.avif -> branding.avif
+franck-dacosta_1-p-500.avif -> franck-dacosta-1-p-500.avif
+franck-dacosta_1.avif -> franck-dacosta-1.avif
+franck-dacosta_1Franck DaCosta.avif -> franck-dacosta-1franck-dacosta.avif
+logo_1logo.avif -> logo.avif
+mou-study_1-p-1080.avif -> mou-study-1-p-1080.avif
+mou-study_1-p-500.avif -> mou-study-1-p-500.avif
+mou-study_1-p-800.avif -> mou-study-1-p-800.avif
+mou-study_1.avif -> mou-study-1.avif
+mou-study_1Mou Study.avif -> mou-study-1mou-study.avif
+no-code-development-1_1.avif -> no-code-development-1-1.avif
+no-code-development-1_1No-code development 1.avif -> no-code-development-1-1no-code-development-1.avif
+no-code-development-2_1.avif -> no-code-development-2-1.avif
+no-code-development-2_1No-code development 2.avif -> no-code-development-2-1no-code-development-2.avif
+project-starts_1-p-500.avif -> project-starts-1-p-500.avif
+project-starts_1.avif -> project-starts-1.avif
+project-starts_1Project Starts.avif -> project-starts-1project-starts.avif
+slide-1_1-p-1080.avif -> slide-1-1-p-1080.avif
+slide-1_1-p-1600.avif -> slide-1-1-p-1600.avif
+slide-1_1-p-2000.avif -> slide-1-1-p-2000.avif
+slide-1_1-p-500.avif -> slide-1-1-p-500.avif
+slide-1_1-p-800.avif -> slide-1-1-p-800.avif
+slide-1_1.avif -> slide-1-1.avif
+slide-1_1Slide 1.avif -> slide-1-1slide-1.avif
+slide-2_1-p-1080.avif -> slide-2-1-p-1080.avif
+slide-2_1-p-1600.avif -> slide-2-1-p-1600.avif
+slide-2_1-p-2000.avif -> slide-2-1-p-2000.avif
+slide-2_1-p-2600.avif -> slide-2-1-p-2600.avif
+slide-2_1-p-500.avif -> slide-2-1-p-500.avif
+slide-2_1-p-800.avif -> slide-2-1-p-800.avif
+slide-2_1.avif -> slide-2-1.avif
+slide-2_1Slide 2.avif -> slide-2-1slide-2.avif
+slide-3_1-p-1080.avif -> slide-3-1-p-1080.avif
+slide-3_1-p-1600.avif -> slide-3-1-p-1600.avif
+slide-3_1-p-2000.avif -> slide-3-1-p-2000.avif
+slide-3_1-p-500.avif -> slide-3-1-p-500.avif
+slide-3_1-p-800.avif -> slide-3-1-p-800.avif
+slide-3_1.avif -> slide-3-1.avif
+slide-3_1Slide 3.avif -> slide-3-1slide-3.avif
+slide-4_1-p-1080.avif -> slide-4-1-p-1080.avif
+slide-4_1-p-1600.avif -> slide-4-1-p-1600.avif
+slide-4_1-p-2000.avif -> slide-4-1-p-2000.avif
+slide-4_1-p-500.avif -> slide-4-1-p-500.avif
+slide-4_1-p-800.avif -> slide-4-1-p-800.avif
+slide-4_1.avif -> slide-4-1.avif
+slide-4_1Slide 4.avif -> slide-4-1slide-4.avif
+slide-5_1-p-1080.avif -> slide-5-1-p-1080.avif
+slide-5_1-p-1600.avif -> slide-5-1-p-1600.avif
+slide-5_1-p-2000.avif -> slide-5-1-p-2000.avif
+slide-5_1-p-500.avif -> slide-5-1-p-500.avif
+slide-5_1-p-800.avif -> slide-5-1-p-800.avif
+slide-5_1.avif -> slide-5-1.avif
+slide-5_1Slide 5.avif -> slide-5-1slide-5.avif
+slide-6_1-p-1080.avif -> slide-6-1-p-1080.avif
+slide-6_1-p-1600.avif -> slide-6-1-p-1600.avif
+slide-6_1-p-2000.avif -> slide-6-1-p-2000.avif
+slide-6_1-p-500.avif -> slide-6-1-p-500.avif
+slide-6_1-p-800.avif -> slide-6-1-p-800.avif
+slide-6_1.avif -> slide-6-1.avif
+slide-6_1Slide 6.avif -> slide-6-1slide-6.avif
+slide-8_1-p-1080.avif -> slide-8-1-p-1080.avif
+slide-8_1-p-1600.avif -> slide-8-1-p-1600.avif
+slide-8_1-p-2000.avif -> slide-8-1-p-2000.avif
+slide-8_1-p-500.avif -> slide-8-1-p-500.avif
+slide-8_1-p-800.avif -> slide-8-1-p-800.avif
+slide-8_1.avif -> slide-8-1.avif
+slide-8_1Slide 8.avif -> slide-8-1slide-8.avif
+slide-9_1-p-1080.avif -> slide-9-1-p-1080.avif
+slide-9_1-p-1600.avif -> slide-9-1-p-1600.avif
+slide-9_1-p-2000.avif -> slide-9-1-p-2000.avif
+slide-9_1-p-500.avif -> slide-9-1-p-500.avif
+slide-9_1-p-800.avif -> slide-9-1-p-800.avif
+slide-9_1.avif -> slide-9-1.avif
+slide-9_1Slide 9.avif -> slide-9-1slide-9.avif
+th-logo_1.avif -> th-logo-1.avif
+th-logo_1TH Logo.avif -> th-logo-1th-logo.avif
+whatsapp-pattern_1-p-500.avif -> whatsapp-pattern-1-p-500.avif
+whatsapp-pattern_1.avif -> whatsapp-pattern-1.avif
+whatsapp-pattern_1Whatsapp Pattern.avif -> whatsapp-pattern-1whatsapp-pattern.avif

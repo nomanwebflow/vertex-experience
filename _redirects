@@ -1,0 +1,16 @@
+# Redirect www to non-www (update with your actual domain)
+# https://www.vertexexperience.com/* https://vertexexperience.com/:splat 301
+
+# Case study redirects (if needed for SEO)
+/case-study/melbourne /case-studies/melbourne.html 301
+/case-study/trusty /case-studies/trusty.html 301
+/case-study/studio-des-iles /case-studies/studio-des-iles.html 301
+
+# Clean URLs (optional - remove .html extension)
+/branding /branding.html 200
+/free-audit /free-audit.html 200
+/privacy-policy /privacy-policy.html 200
+/style-guide /style-guide.html 200
+
+# 404 handling
+/* /404.html 404

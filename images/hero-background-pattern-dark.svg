@@ -1,0 +1,58 @@
+<svg width="1440" height="522" viewBox="0 0 1440 522" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.3" clip-path="url(#clip0_413_5304)">
+<mask id="mask0_413_5304" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1440" height="1440">
+<rect width="1440" height="492" fill="url(#paint0_linear_413_5304)"/>
+</mask>
+<g mask="url(#mask0_413_5304)">
+<g clip-path="url(#clip1_413_5304)">
+<g opacity="0.63" clip-path="url(#clip2_413_5304)">
+<line x1="0.5" x2="0.5" y2="1440" stroke="#D0D5DD"/>
+<line x1="80.5" x2="80.5" y2="1440" stroke="#D0D5DD"/>
+<line x1="160.5" x2="160.5" y2="1440" stroke="#D0D5DD"/>
+<line x1="240.5" x2="240.5" y2="1440" stroke="#D0D5DD"/>
+<line x1="320.5" x2="320.5" y2="1440" stroke="#D0D5DD"/>
+<line x1="400.5" x2="400.5" y2="1440" stroke="#D0D5DD"/>
+<line x1="480.5" x2="480.5" y2="1440" stroke="#D0D5DD"/>
+<line x1="560.5" x2="560.5" y2="1440" stroke="#D0D5DD"/>
+<line x1="640.5" x2="640.5" y2="1440" stroke="#D0D5DD"/>
+<line x1="720.5" x2="720.5" y2="1440" stroke="#D0D5DD"/>
+<line x1="800.5" x2="800.5" y2="1440" stroke="#D0D5DD"/>
+<line x1="880.5" x2="880.5" y2="1440" stroke="#D0D5DD"/>
+<line x1="960.5" x2="960.5" y2="1440" stroke="#D0D5DD"/>
+<line x1="1040.5" x2="1040.5" y2="1440" stroke="#D0D5DD"/>
+<line x1="1120.5" x2="1120.5" y2="1440" stroke="#D0D5DD"/>
+<line x1="1200.5" x2="1200.5" y2="1440" stroke="#D0D5DD"/>
+<line x1="1280.5" x2="1280.5" y2="1440" stroke="#D0D5DD"/>
+<line x1="1360.5" x2="1360.5" y2="1440" stroke="#D0D5DD"/>
+</g>
+<g opacity="0.63" clip-path="url(#clip3_413_5304)">
+<line x1="-240" y1="177.5" x2="1680" y2="177.5" stroke="#D0D5DD"/>
+<line x1="-240" y1="257.5" x2="1680" y2="257.5" stroke="#D0D5DD"/>
+<line x1="-240" y1="337.5" x2="1680" y2="337.5" stroke="#D0D5DD"/>
+<line x1="-240" y1="417.5" x2="1680" y2="417.5" stroke="#D0D5DD"/>
+<line x1="-240" y1="497.5" x2="1680" y2="497.5" stroke="#D0D5DD"/>
+<line x1="-240" y1="105.5" x2="1680" y2="105.5" stroke="#D0D5DD"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_413_5304" x1="720" y1="0" x2="720" y2="492" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0"/>
+<stop offset="0.472385" stop-opacity="0.58"/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0_413_5304">
+<rect width="1440" height="522" fill="white"/>
+</clipPath>
+<clipPath id="clip1_413_5304">
+<rect width="1920" height="1440" fill="white" transform="translate(-240)"/>
+</clipPath>
+<clipPath id="clip2_413_5304">
+<rect width="1920" height="1440" fill="white" transform="translate(-240)"/>
+</clipPath>
+<clipPath id="clip3_413_5304">
+<rect width="1920" height="1618" fill="white" transform="translate(-240)"/>
+</clipPath>
+</defs>
+</svg>
