@@ -1,0 +1,23 @@
+{
+  "name": "vertex",
+  "version": "1.0.0",
+  "description": "A premium web design and development agency website built with Webflow, featuring smooth animations with GSAP and Lenis smooth scrolling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomanwebflow/vertex-experience.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nomanwebflow/vertex-experience/issues"
+  },
+  "homepage": "https://github.com/nomanwebflow/vertex-experience#readme",
+  "devDependencies": {
+    "wrangler": "^4.54.0"
+  }
+}

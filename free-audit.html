@@ -46,6 +46,7 @@
       }
     </style>
   </noscript>
+  <script src="https://web3forms.com/client/script.js" async defer></script>
 </head>
 
 <body>
@@ -55,7 +56,7 @@
         class="lp_nav_component theme-dark">
         <div class="lp-container-main">
           <div class="lp_nav_layout">
-            <a aria-label="Vertex Experience Homepage" href="index.html" class="lp_nav_logo_element w-inline-block"><svg
+            <a aria-label="Vertex Experience Homepage" href="/" class="lp_nav_logo_element w-inline-block"><svg
                 xmlns="http://www.w3.org/2000/svg" width="100%" viewbox="0 0 151 52" fill="none">
                 <g clip-path="url(#clip0_255_1085)">
                   <path
@@ -159,7 +160,7 @@
         class="lp_nav_component w-variant-43787cff-b734-e933-de02-dc8a58cfe239">
         <div class="lp-container-main">
           <div class="lp_nav_layout">
-            <a aria-label="Vertex Experience Homepage" href="index.html" class="lp_nav_logo_element w-inline-block"><svg
+            <a aria-label="Vertex Experience Homepage" href="/" class="lp_nav_logo_element w-inline-block"><svg
                 xmlns="http://www.w3.org/2000/svg" width="100%" viewbox="0 0 151 52" fill="none">
                 <g clip-path="url(#clip0_255_1085)">
                   <path
@@ -989,14 +990,16 @@
             </div>
             <div>
               <div class="form_block w-form">
-                <form id="wf-form-Audit-Form" name="wf-form-Audit-Form" data-name="Audit Form" method="get"
-                  class="form_component" data-wf-page-id="693d61db2d47b101d66f063c"
-                  data-wf-element-id="16fefd2b-f451-ff9f-984e-6d36c59b8faf">
+                <form id="wf-form-Audit-Form" name="wf-form-Audit-Form" data-name="Audit Form" method="POST"
+                  action="https://api.web3forms.com/submit" class="form_component"
+                  data-wf-page-id="693d61db2d47b101d66f063c" data-wf-element-id="16fefd2b-f451-ff9f-984e-6d36c59b8faf">
+                  <input type="hidden" name="access_key" value="e5f2f7ce-eea3-41bf-883f-1b1314bc171b">
+                  <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
                   <div class="form_field"><label for="Full-Name" class="form_label">Your full name</label><input
                       class="form_input w-input" maxlength="256" name="name" data-name="Name" placeholder="Name"
                       type="text" id="Full-Name" required=""></div>
                   <div class="form_field"><label for="Email-2" class="form_label">Email</label>
-                    <div class="form_input-wrap"><input class="form_input w-input" maxlength="256" name="Email"
+                    <div class="form_input-wrap"><input class="form_input w-input" maxlength="256" name="email"
                         data-name="Email" placeholder="you@company.com" type="email" id="Email" required=""><svg
                         xmlns="http://www.w3.org/2000/svg" width="1.25rem" height="1.25rem" viewbox="0 0 20 20"
                         fill="none" class="form_input-icon">
@@ -1039,12 +1042,13 @@
                     </div>
                   </div>
                   <div class="form_field"><label for="Message" class="form_label"> Tell us about your project and
-                      how we can help.</label><textarea id="Message" name="Message" maxlength="5000" data-name="Message"
+                      how we can help.</label><textarea id="Message" name="message" maxlength="5000" data-name="Message"
                       placeholder="Let us know this area you would like our review to be focus on." required=""
-                      class="form_input is-text-area w-input"></textarea></div><label
-                    class="w-checkbox form_checkbox"><input type="checkbox" name="Privacy-Policy" id="Privacy-Policy"
-                      data-name="Privacy Policy" required="" class="w-checkbox-input form_checkbox-icon"><span
-                      class="form_checkbox-label w-form-label" for="Privacy-Policy">By proceeding, you confirm that you
+                      class="form_input is-text-area w-input"></textarea></div>
+                  <label class="w-checkbox form_checkbox"><input type="checkbox" name="Privacy-Policy"
+                      id="Privacy-Policy" data-name="Privacy Policy" required=""
+                      class="w-checkbox-input form_checkbox-icon"><span class="form_checkbox-label w-form-label"
+                      for="Privacy-Policy">By proceeding, you confirm that you
                       have read and agree to Vertex Experience <a href="privacy-policy.html">Privacy
                         Notice</a>.</span></label><button type="submit" class="button_component">
                     <p class="button_text">Book a free audit</p>
@@ -1707,712 +1711,67 @@
   <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=693d61db2d47b101d66f0661"
     type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
     crossorigin="anonymous"></script>
-  <script defer
-    src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=693d61db2d47b101d66f0661"
-    type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
-    crossorigin="anonymous"></script>
-
-  <!-- Nav Animation -->
-
-  <!--  GTM  -->
-
-  <script>
-    const cssUrl = "https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css";
-    const scriptUrl = "https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.js";
-
-    const loadCSS = () => {
-      if (document.getElementById("lazy-swiper-css")) return; // prevent double loading
-      const link = document.createElement("link");
-      link.id = "lazy-swiper-css";
-      link.rel = "stylesheet";
-      link.href = cssUrl;
-      document.head.appendChild(link);
-      window.removeEventListener("mousemove", loadCSS); // remove after first trigger
-    };
-    window.addEventListener("mousemove", loadCSS, { once: true });
-  </script>
   <script defer="" src="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.js"></script>
   <script defer="" src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js"></script>
   <script defer="" src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/ScrollTrigger.min.js"></script>
-  <script defer src="js/webflow.js" type="text/javascript"></script>
+  <script defer src="js/webflow.js?v=2" type="text/javascript"></script>
+
+  <!-- Web3Forms Submission Handler -->
   <script>
-    document.addEventListener("DOMContentLoaded", (() => {
-      "undefined" == typeof window.gsap && document.documentElement.classList.add("gsap-not-found");
-      gsap.registerPlugin(ScrollTrigger);
+    const form = document.getElementById('wf-form-Audit-Form');
+    const successMessage = document.querySelector('.form_sucess');
+    const errorMessage = document.querySelector('.form_error');
 
-    document.addEventListener("DOMContentLoaded", (() => {
-      const e = document.querySelectorAll(".casestudy_hero_section");
-      e.length && e.forEach((e => {
-        // Set section to visible before animation
-        gsap.set(e, { visibility: "visible" });
-        const t = gsap.timeline({
-          scrollTrigger: {
-            trigger: e,
-            start: "top bottom"
-          },
-          defaults: {
-            ease: "back.out",
-            duration: .5
-          }
-        });
-        const n = e.querySelector("h1");
-        n && t.from(n, {
-          opacity: 0,
-          y: "40%"
-        }, .15);
-        const s = e.querySelector("p");
-        s && t.from(s, {
-          opacity: 0,
-          y: "100%"
-        }, .2);
-        const i = e.querySelectorAll(".button-group > *");
-        i && t.from(i, {
-          opacity: 0,
-          y: "100%",
-          stagger: {
-            amount: .1
-          }
-        }, .25);
-        const l = e.querySelectorAll(".grid-layout > *");
-        l && t.from(l, {
-          opacity: 0,
-          y: "10%",
-          stagger: {
-            amount: .4
-          }
-        }, .3);
+    if (form) {
+      form.addEventListener('submit', async function (e) {
+        e.preventDefault();
 
-    document.addEventListener("DOMContentLoaded", (() => {
+        const formData = new FormData(form);
+        const object = Object.fromEntries(formData);
+        const json = JSON.stringify(object);
 
-    document.addEventListener("DOMContentLoaded", (() => {
-      const e = document.querySelectorAll(".lp_hero_section");
-      e.length && e.forEach((e => {
-        if (e.style.visibility = "visible", window.innerWidth < 992) return;
-        const t = gsap.timeline({
-          scrollTrigger: {
-            trigger: e,
-            start: "top bottom"
-          },
-          defaults: {
-            ease: "back.out",
-            duration: .5
-          }
-        });
-        const o = e.querySelector(".lp_hero_logo");
-        o && t.from(o, {
-          opacity: 0,
-          y: "2rem"
-        }, .1);
-        const r = e.querySelector(".text-size-eyebrow");
-        r && t.from(r, {
-          opacity: 0,
-          y: "2rem"
-        }, .1);
-        const n = e.querySelector("h1");
-        n && t.from(n, {
-          opacity: 0,
-          y: "40%"
-        }, .15);
-        const s = e.querySelector("p");
-        s && t.from(s, {
-          opacity: 0,
-          y: "100%"
-        }, .2);
-        const i = e.querySelectorAll(".button-group > *");
-        i && t.from(i, {
-          opacity: 0,
-          y: "100%",
-          stagger: {
-            amount: .1
-          }
-        }, .25);
-        const l = e.querySelectorAll(".lp_hero_marquee_logo");
-        l && t.from(l, {
-          opacity: 0,
-          y: "100%",
-          stagger: {
-            amount: .45
-          }
-        }, .3);
-        const a = e.querySelector(".lp_hero_slider_component");
-        a && t.from(a, {
-          opacity: 0,
-          y: "5rem"
-        }, .35);
+        // Hide form and show loading state
+        form.style.opacity = '0.5';
+        form.style.pointerEvents = 'none';
 
-    document.addEventListener("DOMContentLoaded", (() => {
-      const e = document.querySelectorAll(".lp_services_section");
-      e.length && e.forEach((e => {
-        e.style.visibility = "visible";
-        const t = gsap.timeline({
-          scrollTrigger: {
-            trigger: e,
-            start: "top 70%"
-          },
-          defaults: {
-            ease: "back.out",
-            duration: .5
-          }
-        });
-        const o = e.querySelector("h2");
-        o && t.from(o, {
-          opacity: 0,
-          y: "40%"
-        }, 0);
+        try {
+          const response = await fetch('https://api.web3forms.com/submit', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+              'Accept': 'application/json'
+            },
+            body: json
+          });
 
-    document.addEventListener("DOMContentLoaded", (() => {
-      const e = document.querySelectorAll(".lp_services_block_wrap, .lp_works_item");
-      e.length && e.forEach((e => {
-        e.style.visibility = "visible";
-        gsap.timeline({
-          scrollTrigger: {
-            trigger: e,
-            start: "top 80%"
-          },
-          defaults: {
-            ease: "back.out",
-            duration: .7
-          }
-        }).from(e, {
-          opacity: 0,
-          y: "5rem"
-        });
+          const result = await response.json();
 
-    document.addEventListener("DOMContentLoaded", (() => {
-      const e = document.querySelectorAll(".lp_works_section");
-      e.length && e.forEach((e => {
-        e.style.visibility = "visible";
-        const t = gsap.timeline({
-          scrollTrigger: {
-            trigger: e,
-            start: "top 70%"
-          },
-          defaults: {
-            ease: "back.out",
-            duration: .5
+          if (response.ok) {
+            // Show success message
+            form.style.display = 'none';
+            if (successMessage) {
+              successMessage.style.display = 'block';
+            }
+            form.reset();
+          } else {
+            throw new Error(result.message || 'Form submission failed');
           }
-        });
-        const o = e.querySelector("h2");
-        o && t.from(o, {
-          opacity: 0,
-          y: "40%"
-        }, 0);
-        const r = e.querySelector("p");
-        r && t.from(r, {
-          opacity: 0,
-          y: "100%"
-        }, 0);
-
-    document.addEventListener("DOMContentLoaded", (() => {
-      const e = document.querySelectorAll("[data-animate-button]");
-      e.length && e.forEach((e => {
-        e.style.visibility = "visible";
-        const t = gsap.timeline({
-          scrollTrigger: {
-            trigger: e,
-            start: "top 70%"
-          },
-          defaults: {
-            ease: "back.out",
-            duration: .5
+        } catch (error) {
+          console.error('Error:', error);
+          // Show error message
+          form.style.opacity = '1';
+          form.style.pointerEvents = 'auto';
+          if (errorMessage) {
+            errorMessage.style.display = 'block';
+            setTimeout(() => {
+              errorMessage.style.display = 'none';
+            }, 5000);
           }
-        });
-        const o = e.querySelectorAll(".button_component");
-        o && t.from(o, {
-          opacity: 0,
-          y: "100%",
-          stagger: {
-            amount: .1
-          }
-        }, .25);
-
-    document.addEventListener("DOMContentLoaded", (() => {
-      const e = document.querySelectorAll(".lp_testimonials_section");
-      e.length && e.forEach((e => {
-        e.style.visibility = "visible";
-        const t = gsap.timeline({
-          scrollTrigger: {
-            trigger: e,
-            start: "top 70%"
-          },
-          defaults: {
-            ease: "back.out",
-            duration: .5
-          }
-        });
-        const o = e.querySelector("h2");
-        o && t.from(o, {
-          opacity: 0,
-          y: "40%"
-        }, 0);
-        const r = e.querySelectorAll(".lp_testimonials_slider_element > *");
-        r && t.from(r, {
-          opacity: 0,
-          y: "10%",
-          duration: .7,
-          stagger: {
-            amount: .5
-          }
-        }, .15);
-
-    document.addEventListener("DOMContentLoaded", (() => {
-      const e = document.querySelectorAll(".lp_about_section");
-      e.length && e.forEach((e => {
-        e.style.visibility = "visible";
-        const t = gsap.timeline({
-          scrollTrigger: {
-            trigger: e,
-            start: "top 70%"
-          },
-          defaults: {
-            ease: "back.out",
-            duration: .5
-          }
-        });
-        const o = e.querySelector("h2");
-        o && t.from(o, {
-          opacity: 0,
-          y: "40%"
-        }, 0);
-        const r = e.querySelector("p");
-        r && t.from(r, {
-          opacity: 0,
-          y: "100%"
-        }, .08);
-        const n = e.querySelectorAll(".lp_cards_layout > *");
-        n && t.from(n, {
-          opacity: 0,
-          y: "40%",
-          duration: .7,
-          stagger: .05
-        }, .21);
-        const s = e.querySelectorAll(".lp_about_card_team_img_wrap > *");
-        s && t.from(s, {
-          opacity: 0,
-          x: "100%",
-          scale: .1,
-          duration: .6,
-          stagger: .05
-        }, .8);
-
-    document.addEventListener("DOMContentLoaded", (() => {
-      const e = document.querySelectorAll(".lp_founder_section");
-      e.length && e.forEach((e => {
-        e.style.visibility = "visible";
-        const t = gsap.timeline({
-          scrollTrigger: {
-            trigger: e,
-            start: "top 70%"
-          },
-          defaults: {
-            ease: "back.out",
-            duration: .5
-          }
-        });
-        const o = e.querySelector("h2");
-        o && t.from(o, {
-          opacity: 0,
-          y: "40%"
-        }, 0);
-        const r = e.querySelectorAll("p");
-        r && t.from(r, {
-          opacity: 0,
-          y: "20%"
-        }, .05);
-        const n = e.querySelectorAll(".button-group > *");
-        n && t.from(n, {
-          opacity: 0,
-          y: "100%",
-          stagger: {
-            amount: .1
-          }
-        }, .21);
-        const s = e.querySelectorAll("img");
-        s && t.from(s, {
-          opacity: 0,
-          y: "20%",
-          duration: .7
-        }, .25);
-
-    document.addEventListener("DOMContentLoaded", (() => {
-      const e = document.querySelectorAll(".lp_branding_section");
-      e.length && e.forEach((e => {
-        e.style.visibility = "visible";
-        const t = gsap.timeline({
-          scrollTrigger: {
-            trigger: e,
-            start: "top 70%"
-          },
-          defaults: {
-            ease: "back.out",
-            duration: .5
-          }
-        });
-        const o = e.querySelector("h2");
-        o && t.from(o, {
-          opacity: 0,
-          y: "40%"
-        }, 0);
-        const r = e.querySelectorAll(".lp_branding_layout");
-        r && t.from(r, {
-          opacity: 0,
-          y: "10%",
-          duration: 1,
-          ease: "back.inOut",
-          stagger: .1
-        }, .25);
-
-    document.addEventListener("DOMContentLoaded", (() => {
-      const e = document.querySelectorAll(".lp_process_section");
-      e.length && e.forEach((e => {
-        e.style.visibility = "visible";
-        const t = gsap.timeline({
-          scrollTrigger: {
-            trigger: e,
-            start: "top 70%"
-          },
-          defaults: {
-            ease: "back.out",
-            duration: .5
-          }
-        });
-        const o = e.querySelector("h2");
-        o && t.from(o, {
-          opacity: 0,
-          y: "40%"
-        }, 0);
-        const r = e.querySelectorAll(".lp_cards_layout > *");
-        r && t.from(r, {
-          opacity: 0,
-          y: "40%",
-          duration: .7,
-          stagger: .05
-        }, .61);
-        const n = e.querySelectorAll(".lp_cards_img");
-        n && t.from(n, {
-          opacity: 0,
-          scale: .1,
-          duration: .8,
-          stagger: .05,
-          transformOrigin: "100% 100%"
-        }, 1.02);
-        const s = e.querySelectorAll(".chat_wrap");
-        s && t.from(s, {
-          opacity: 0,
-          scale: .1,
-          duration: .8,
-          stagger: .05,
-          transformOrigin: "100% 0%"
-        }, 1.02);
-        const i = e.querySelectorAll(".chat_date");
-        i && t.from(i, {
-          opacity: 0,
-          y: "100%",
-          duration: .2
-        }, 2.12);
-        const l = e.querySelectorAll(".chat_wrap > *:not(.chat_bg, .chat_date, .chat_date-wrap)");
-        l && t.from(l, {
-          opacity: 0,
-          y: "2rem",
-          duration: 1.4,
-          stagger: .3
-        }, 2.01);
-
-    document.addEventListener("DOMContentLoaded", (() => {
-      const e = document.querySelectorAll(".lp_faq_section");
-      e.length && e.forEach((e => {
-        e.style.visibility = "visible";
-        const t = gsap.timeline({
-          scrollTrigger: {
-            trigger: e,
-            start: "top 70%"
-          },
-          defaults: {
-            ease: "back.out",
-            duration: .5
-          }
-        });
-        const o = e.querySelector("h2");
-        o && t.from(o, {
-          opacity: 0,
-          y: "40%"
-        }, 0);
-        const r = e.querySelectorAll(".accordion_list > *, .lp_cta_wrap");
-        r && t.from(r, {
-          opacity: 0,
-          y: "40%",
-          duration: .7,
-          stagger: .05
-        }, .5);
-
-    document.addEventListener("DOMContentLoaded", (() => {
-      gsap.to(".nav_progress", {
-        scaleX: 1,
-        ease: "none",
-        scrollTrigger: {
-          trigger: ".page-wrapper",
-          start: "top top",
-          end: "bottom bottom",
-          scrub: !0
         }
       });
-
-    document.addEventListener("DOMContentLoaded", (() => {
-      const e = document.querySelectorAll(".case-study_content_main-img-wrap");
-      e.length && e.forEach((e => {
-        e.style.visibility = "visible";
-        const t = gsap.timeline({
-          scrollTrigger: {
-            trigger: e,
-            start: "top 70%"
-          },
-          defaults: {
-            ease: "back.out",
-            duration: .8
-          }
-        });
-        const o = e.querySelector("img");
-        o && t.from(o, {
-          opacity: 0,
-          y: "10%"
-        }, 0);
-
-    document.addEventListener("DOMContentLoaded", (() => {
-      const e = document.querySelectorAll(".case-study_content_text-wrap.gap-small");
-      e.length && e.forEach((e => {
-        e.style.visibility = "visible";
-        const t = gsap.timeline({
-          scrollTrigger: {
-            trigger: e,
-            start: "top 70%"
-          },
-          defaults: {
-            ease: "back.out",
-            duration: .8
-          }
-        });
-        const o = e.querySelectorAll(".case-study_content_text-wrap > *");
-        o && t.from(o, {
-          opacity: 0,
-          stagger: .2,
-          y: "20%"
-        }, 0);
-
-    document.addEventListener("DOMContentLoaded", (() => {
-      const e = document.querySelectorAll(".case-study_content_col");
-      e.length && e.forEach((e => {
-        e.style.visibility = "visible";
-        const t = gsap.timeline({
-          scrollTrigger: {
-            trigger: e,
-            start: "top 70%"
-          },
-          defaults: {
-            ease: "back.out",
-            duration: .8
-          }
-        });
-        const o = e.querySelectorAll(".case-study_content_col > *");
-        o && t.from(o, {
-          opacity: 0,
-          stagger: .2,
-          y: "10%"
-        }, 0);
-
-    document.addEventListener("DOMContentLoaded", (() => {
-      const e = document.querySelectorAll(".case-study_content_text-wrap");
-      e.length && e.forEach((e => {
-        e.style.visibility = "visible";
-        const t = gsap.timeline({
-          scrollTrigger: {
-            trigger: e,
-            start: "top 70%"
-          },
-          defaults: {
-            ease: "back.out",
-            duration: .8
-          }
-        });
-        const o = e.querySelectorAll(".case-study_content_nav");
-        o && t.from(o, {
-          opacity: 0,
-          stagger: .2,
-          y: "10%"
-        }, 0);
-
-    document.addEventListener("DOMContentLoaded", (() => {
-      const e = document.querySelectorAll(".case-study_content_gallery");
-      e.length && e.forEach((e => {
-        e.style.visibility = "visible";
-        const t = gsap.timeline({
-          scrollTrigger: {
-            trigger: e,
-            start: "top 70%"
-          },
-          defaults: {
-            ease: "back.out",
-            duration: .5
-          }
-        });
-        const o = e.querySelector("h2");
-        o && t.from(o, {
-          opacity: 0,
-          y: "40%"
-        }, 0);
-        const r = e.querySelectorAll(".case-study_content_gallery > *");
-        r && t.from(r, {
-          opacity: 0,
-          y: "10%",
-          duration: 1,
-          ease: "back.inOut",
-          stagger: .1
-        }, .25);
-
-    document.addEventListener("DOMContentLoaded", (() => {
-      const e = document.querySelectorAll(".case-study_process_section");
-      e.length && e.forEach((e => {
-        e.style.visibility = "visible";
-        const t = gsap.timeline({
-          scrollTrigger: {
-            trigger: e,
-            start: "top 70%"
-          },
-          defaults: {
-            ease: "back.out",
-            duration: .5
-          }
-        });
-        const o = e.querySelector(".case-study_process_wrap");
-        o && t.from(o, {
-          opacity: 0,
-          y: "5%"
-        }, 0);
-        const r = e.querySelectorAll(".case-study_process_wrap > *");
-        r && t.from(r, {
-          opacity: 0,
-          y: "10%",
-          duration: 1,
-          ease: "back.inOut",
-          stagger: .1
-        }, .5);
-
-    document.addEventListener("DOMContentLoaded", (() => {
-      const e = document.querySelectorAll(".w_works_section");
-      e.length && e.forEach((e => {
-        e.style.visibility = "visible";
-        const t = gsap.timeline({
-          scrollTrigger: {
-            trigger: e,
-            start: "top 70%"
-          },
-          defaults: {
-            ease: "back.out",
-            duration: .5
-          }
-        });
-        const o = e.querySelector("h2");
-        o && t.from(o, {
-          opacity: 0,
-          y: "40%"
-        }, 0);
-        const r = e.querySelector("p");
-        r && t.from(r, {
-          opacity: 0,
-          y: "100%"
-        }, 0.1);
-        const b = e.querySelectorAll(".button_component");
-        b && t.from(b, {
-          opacity: 0,
-          y: "100%",
-          stagger: {
-            amount: .1
-          }
-        }, .25);
-
-    document.addEventListener("DOMContentLoaded", (() => {
-      const e = document.querySelectorAll(".case-study_content_melbourne-moodbord");
-      e.length && e.forEach((e => {
-        e.style.visibility = "visible";
-        const t = gsap.timeline({
-          scrollTrigger: {
-            trigger: e,
-            start: "top 70%"
-          },
-          defaults: {
-            ease: "back.out",
-            duration: .5
-          }
-        });
-        const o = e.querySelector("h2");
-        o && t.from(o, {
-          opacity: 0,
-          y: "40%"
-        }, 0);
-        const r = e.querySelector("p");
-        r && t.from(r, {
-          opacity: 0,
-          y: "100%"
-        }, 0.1);
-        const b = e.querySelectorAll("img");
-        b && t.from(b, {
-          opacity: 0,
-          y: "5%",
-          stagger: .1
-        }, .25);
-
-    document.addEventListener("DOMContentLoaded", (() => {
-      const e = document.querySelectorAll(".case-study_content_mood-board");
-      e.length && e.forEach((e => {
-        e.style.visibility = "visible";
-        const t = gsap.timeline({
-          scrollTrigger: {
-            trigger: e,
-            start: "top 70%"
-          },
-          defaults: {
-            ease: "back.out",
-            duration: .5
-          }
-        });
-        const o = e.querySelector("h2");
-        o && t.from(o, {
-          opacity: 0,
-          y: "40%",
-          stagger: .15
-        }, 0);
-        const r = e.querySelector("p");
-        r && t.from(r, {
-          opacity: 0,
-          y: "100%"
-        }, 0.1);
-        const b = e.querySelectorAll("img");
-        b && t.from(b, {
-          opacity: 0,
-          y: "5%",
-          stagger: .05,
-          duration: 2
-        }, .25);
-
-    document.addEventListener("DOMContentLoaded", () => {
-      const footer = document.querySelector(".footer_component");
-      if (!footer) return;
-      gsap.fromTo(footer,
-        { y: "100%" },
-        {
-          y: "0%",
-          ease: "none",
-          scrollTrigger: {
-            trigger: ".main-wrapper",
-            start: "bottom bottom",
-            end: "bottom 70%",
-            scrub: true,
-          }
-        }
-      );
-    });
-  </script><!--  [Attributes by Finsweet] Custom Form Select  -->
-  <script defer="" src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-selectcustom@1/selectcustom.js"></script>
-  <script src="http://127.0.0.1:5500/gsap.js"></script>
+    }
+  </script>
+  <script defer src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-selectcustom@1/selectcustom.js"></script>
 </body>
 
 </html>

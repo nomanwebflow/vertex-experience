@@ -1,0 +1,51 @@
+# Git
+.git
+.gitignore
+
+# Node
+node_modules
+npm-debug.log
+package-lock.json
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Documentation
+README.md
+*.md
+!DEPLOYMENT.md
+
+# Development files
+.wrangler
+wrangler.toml
+
+# HTML/CSS/JS (not needed for PHP backend)
+*.html
+css/
+js/
+images/
+videos/
+fonts/
+case-studies/
+
+# Python scripts
+*.py
+*.pyc
+
+# Other
+_headers
+_redirects
+.claude

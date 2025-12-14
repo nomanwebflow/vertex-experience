@@ -36,7 +36,7 @@ vertex/
 ├── images/                # Optimized images (AVIF)
 ├── videos/                # Video assets
 ├── fonts/                 # Web fonts
-├── index.html             # Homepage
+├── /             # Homepage
 ├── branding.html          # Branding page
 ├── free-audit.html        # Free audit page
 ├── 404.html               # 404 error page
