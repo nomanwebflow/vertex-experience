@@ -770,6 +770,14 @@ document.addEventListener("DOMContentLoaded", (() => {
 // Footer Animation
 document.addEventListener("DOMContentLoaded", () => {
 
+    $('[popup-open]').on('click', function () {
+        $('.testimonial_pop_wrap').addClass('is-open');
+    });
+
+    $('[popup-close]').on('click', function () {
+        $('.testimonial_pop_wrap').removeClass('is-open');
+    });
+
 
     const r = document.querySelector(".lp_works_section");
     const navComponent = document.querySelector(".lp_nav_component");
