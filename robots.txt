@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Disallow error pages
+Disallow: /404.html
+Disallow: /401.html
+
+# Disallow style guide (internal use)
+Disallow: /style-guide.html
+
+# Disallow PHP contact form files
+Disallow: /php-email-contact-form/
+
+Sitemap: https://www.vertexexperience.com/sitemap.xml
