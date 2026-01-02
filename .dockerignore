@@ -32,14 +32,6 @@ README.md
 .wrangler
 wrangler.toml
 
-# HTML/CSS/JS (not needed for PHP backend)
-*.html
-css/
-js/
-images/
-videos/
-fonts/
-case-studies/
 
 # Python scripts
 *.py

@@ -70,7 +70,7 @@ Push to your repository and Cloudflare Pages will automatically deploy.
 
 ## License
 
-All rights reserved © 2025 Vertex Experience
+All rights reserved © 2026 Vertex Experience
 
 ## Contact
 

@@ -2138,7 +2138,7 @@
               </svg></a>
           </div>
         </div>
-        <p class="text-size-small">© 2025 Vertex Experience. All rights reserved.</p>
+        <p class="text-size-small">© 2026 Vertex Experience. All rights reserved.</p>
       </div>
     </footer>
     <div class="fab_wrap layer flex-start pointer-events-none z-index-2">
@@ -2880,135 +2880,135 @@
                                                                                               });
   </script>
   <script>document.addEventListener("DOMContentLoaded", (() => {
-          "undefined" == typeof window.gsap && document.documentElement.classList.add("gsap-not-found");
-          gsap.registerPlugin(ScrollTrigger);
-          // FIX: Refresh ScrollTrigger after page load to handle scrolled positions
-          window.addEventListener('load', () => {
-            ScrollTrigger.refresh();
-          });
-          // FIX: Also refresh on page show (handles back/forward navigation)
-          window.addEventListener('pageshow', (event) => {
-            if (event.persisted) {
-              ScrollTrigger.refresh();
-            }
-          });
-          // Initial refresh for immediate scroll position
-          setTimeout(() => {
-            ScrollTrigger.refresh();
-          }, 100);
+                                                                                                "undefined" == typeof window.gsap && document.documentElement.classList.add("gsap-not-found");
+                                                                                                gsap.registerPlugin(ScrollTrigger);
+                                                                                                // FIX: Refresh ScrollTrigger after page load to handle scrolled positions
+                                                                                                window.addEventListener('load', () => {
+                                                                                                  ScrollTrigger.refresh();
+                                                                                                });
+                                                                                                // FIX: Also refresh on page show (handles back/forward navigation)
+                                                                                                window.addEventListener('pageshow', (event) => {
+                                                                                                  if (event.persisted) {
+                                                                                                    ScrollTrigger.refresh();
+                                                                                                  }
+                                                                                                });
+                                                                                                // Initial refresh for immediate scroll position
+                                                                                                setTimeout(() => {
+                                                                                                  ScrollTrigger.refresh();
+                                                                                                }, 100);
 
-          document.addEventListener("DOMContentLoaded", (() => {
-            const e = document.querySelectorAll(".hero_section-dark");
-            e.length && e.forEach((e => {
-              if (e.style.visibility = "visible", window.innerWidth < 992) return;
-              const t = gsap.timeline({
-                scrollTrigger: {
-                  trigger: e,
-                  start: "top bottom",
-                  once: !0
-                },
-                defaults: {
-                  ease: "back.out",
-                  duration: .5
-                }
-              }), o = e.querySelector(".lp_hero_logo");
-              o && t.from(o, {
-                opacity: 0,
-                y: "2rem"
-              }, .1);
-              const r = e.querySelector(".text-size-eyebrow");
-              r && t.from(r, {
-                opacity: 0,
-                y: "2rem"
-              }, .1);
-              const n = e.querySelector("h1");
-              n && t.from(n, {
-                opacity: 0,
-                y: "40%"
-              }, .15);
-              const s = e.querySelector("p");
-              s && t.from(s, {
-                opacity: 0,
-                y: "100%"
-              }, .2);
-              const i = e.querySelectorAll(".button-group > *");
-              i && t.from(i, {
-                opacity: 0,
-                y: "100%",
-                stagger: {
-                  amount: .1
-                }
-              }, .25);
-              const l = e.querySelectorAll(".lp_hero_marquee_logo");
-              l && t.from(l, {
-                opacity: 0,
-                y: "100%",
-                stagger: {
-                  amount: .45
-                }
-              }, .3);
-              const a = e.querySelector(".lp_hero_slider_component");
-              a && t.from(a, {
-                opacity: 0,
-                y: "5rem"
-              }, .35)
-            }))
+                                                                                                document.addEventListener("DOMContentLoaded", (() => {
+                                                                                                  const e = document.querySelectorAll(".hero_section-dark");
+                                                                                                  e.length && e.forEach((e => {
+                                                                                                    if (e.style.visibility = "visible", window.innerWidth < 992) return;
+                                                                                                    const t = gsap.timeline({
+                                                                                                      scrollTrigger: {
+                                                                                                        trigger: e,
+                                                                                                        start: "top bottom",
+                                                                                                        once: !0
+                                                                                                      },
+                                                                                                      defaults: {
+                                                                                                        ease: "back.out",
+                                                                                                        duration: .5
+                                                                                                      }
+                                                                                                    }), o = e.querySelector(".lp_hero_logo");
+                                                                                                    o && t.from(o, {
+                                                                                                      opacity: 0,
+                                                                                                      y: "2rem"
+                                                                                                    }, .1);
+                                                                                                    const r = e.querySelector(".text-size-eyebrow");
+                                                                                                    r && t.from(r, {
+                                                                                                      opacity: 0,
+                                                                                                      y: "2rem"
+                                                                                                    }, .1);
+                                                                                                    const n = e.querySelector("h1");
+                                                                                                    n && t.from(n, {
+                                                                                                      opacity: 0,
+                                                                                                      y: "40%"
+                                                                                                    }, .15);
+                                                                                                    const s = e.querySelector("p");
+                                                                                                    s && t.from(s, {
+                                                                                                      opacity: 0,
+                                                                                                      y: "100%"
+                                                                                                    }, .2);
+                                                                                                    const i = e.querySelectorAll(".button-group > *");
+                                                                                                    i && t.from(i, {
+                                                                                                      opacity: 0,
+                                                                                                      y: "100%",
+                                                                                                      stagger: {
+                                                                                                        amount: .1
+                                                                                                      }
+                                                                                                    }, .25);
+                                                                                                    const l = e.querySelectorAll(".lp_hero_marquee_logo");
+                                                                                                    l && t.from(l, {
+                                                                                                      opacity: 0,
+                                                                                                      y: "100%",
+                                                                                                      stagger: {
+                                                                                                        amount: .45
+                                                                                                      }
+                                                                                                    }, .3);
+                                                                                                    const a = e.querySelector(".lp_hero_slider_component");
+                                                                                                    a && t.from(a, {
+                                                                                                      opacity: 0,
+                                                                                                      y: "5rem"
+                                                                                                    }, .35)
+                                                                                                  }))
 
-            document.addEventListener("DOMContentLoaded", (() => {
-              const e = document.querySelectorAll(".branding_section");
-              e.length && e.forEach((e => {
-                e.style.visibility = "visible";
-                const t = gsap.timeline({
-                  scrollTrigger: {
-                    trigger: e,
-                    start: "top 70%",
-                    once: !0
-                  },
-                  defaults: {
-                    ease: "back.out",
-                    duration: .5
-                  }
-                }), o = e.querySelector("h2");
-                o && t.from(o, {
-                  opacity: 0,
-                  y: "40%"
-                }, 0);
-                const r = e.querySelector("p");
-                r && t.from(r, {
-                  opacity: 0,
-                  y: "100%"
-                }, 0)
-              }))
+                                                                                                  document.addEventListener("DOMContentLoaded", (() => {
+                                                                                                    const e = document.querySelectorAll(".branding_section");
+                                                                                                    e.length && e.forEach((e => {
+                                                                                                      e.style.visibility = "visible";
+                                                                                                      const t = gsap.timeline({
+                                                                                                        scrollTrigger: {
+                                                                                                          trigger: e,
+                                                                                                          start: "top 70%",
+                                                                                                          once: !0
+                                                                                                        },
+                                                                                                        defaults: {
+                                                                                                          ease: "back.out",
+                                                                                                          duration: .5
+                                                                                                        }
+                                                                                                      }), o = e.querySelector("h2");
+                                                                                                      o && t.from(o, {
+                                                                                                        opacity: 0,
+                                                                                                        y: "40%"
+                                                                                                      }, 0);
+                                                                                                      const r = e.querySelector("p");
+                                                                                                      r && t.from(r, {
+                                                                                                        opacity: 0,
+                                                                                                        y: "100%"
+                                                                                                      }, 0)
+                                                                                                    }))
 
-              document.addEventListener("DOMContentLoaded", (() => {
-                const e = document.querySelectorAll(".branding_layout");
-                e.length && e.forEach((e => {
-                  e.style.visibility = "visible";
-                  const t = gsap.timeline({
-                    scrollTrigger: {
-                      trigger: e,
-                      start: "top 70%",
-                      once: !0
-                    },
-                    defaults: {
-                      ease: "back.out",
-                      duration: .5
-                    }
-                  }), o = e.querySelector("h2");
-                  o && t.from(o, {
-                    opacity: 0,
-                    y: "40%"
-                  }, 0);
-                  const r = e.querySelectorAll(".branding_item");
-                  r && t.from(r, {
-                    opacity: 0,
-                    y: "10%",
-                    duration: 1,
-                    ease: "back.inOut",
-                    stagger: .1
-                  }, .25)
-                }))
-              }));</script>
+                                                                                                    document.addEventListener("DOMContentLoaded", (() => {
+                                                                                                      const e = document.querySelectorAll(".branding_layout");
+                                                                                                      e.length && e.forEach((e => {
+                                                                                                        e.style.visibility = "visible";
+                                                                                                        const t = gsap.timeline({
+                                                                                                          scrollTrigger: {
+                                                                                                            trigger: e,
+                                                                                                            start: "top 70%",
+                                                                                                            once: !0
+                                                                                                          },
+                                                                                                          defaults: {
+                                                                                                            ease: "back.out",
+                                                                                                            duration: .5
+                                                                                                          }
+                                                                                                        }), o = e.querySelector("h2");
+                                                                                                        o && t.from(o, {
+                                                                                                          opacity: 0,
+                                                                                                          y: "40%"
+                                                                                                        }, 0);
+                                                                                                        const r = e.querySelectorAll(".branding_item");
+                                                                                                        r && t.from(r, {
+                                                                                                          opacity: 0,
+                                                                                                          y: "10%",
+                                                                                                          duration: 1,
+                                                                                                          ease: "back.inOut",
+                                                                                                          stagger: .1
+                                                                                                        }, .25)
+                                                                                                      }))
+                                                                                                    }));</script>
 </body>
 
 </html>
